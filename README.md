@@ -36,3 +36,7 @@ These files are overwritten each time you run the tool. Close the Excel report b
 ## The one rule
 
 The original CSV files in `data/` are never changed or deleted. All results go to `output/`.
+
+## More detail
+
+See [docs/operations.md](docs/operations.md) for why the project exists, how the process works and the monthly routine.
