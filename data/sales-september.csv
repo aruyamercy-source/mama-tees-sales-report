@@ -1,0 +1,201 @@
+date,branch,product,quantity,unit_price
+2026-09-01,Maitama,Buns,9,300
+01/09/2026,Garki,Sliced Bread,14,2000
+1 Sep 2026,Garki,Chocolate Chunk Cookie,21,600
+Sep 1 2026,Garki,Buns,26,300
+2026-09-01,Wuse,Sausage Roll,7,800
+01/09/2026,Wuse,CROISSANT,9,1200
+1 Sep 2026,Maitama,PLAIN BREAD,7,1500
+Sep 2 2026,Garki,Plain Bread,10,1500
+31/09/2026,Wuse,Cinnamon Roll,6,1000
+02/09/2026,GARKI,Puff Puff,14,600
+2 Sep 2026,Wuse,Puff Puff,20,600
+Sep 2 2026,Wuse,Chin Chin,4,1200
+2026-09-02,Garki,Sliced Bread,26,2000
+03/09/2026,Wuse,Doughnut,11,
+3 Sep 2026,Maitama,BUNS,15,300
+Sep 3 2026,Maitama,Banana Bread,12,1800
+2026-09-03,Wuse,Meat Pie,19,1000
+03/09/2026,Wuse,Cake Slice,11,700
+3 Sep 2026,Garki,Puffpuff,17,600
+Sep 4 2026,Maitama,Fish Roll,5,700
+2026-09-04,Maitama,Chin Chin,15,1200
+04/09/2026,Garki,Puff Puff,22,
+4 Sep 2026,Maitama,Puf Puf,10,600
+Sep 4 2026,Wuse,Meat Pie,16,1000
+2026-09-04,wuse,Sausage Roll,16,800
+04/09/2026,Wuse,Sausage Roll,8,800
+5 Sep 2026,Garki,meat-pie,21,1000
+Sep 5 2026,Maitama,Sliced Bread,15,2000
+2026-09-05,Wuse,SLICED BREAD,17,2000
+05/09/2026,MAITAMA,Chin Chin,11,1200
+5 Sep 2026,Wuse,Chin Chin,6,1200
+Sep 5 2026,Maitama,Chin Chinn,15,1200
+2026-09-06,Maitama,Fish-Roll,9,700
+06/09/2026,wuse,Chin Chin,13,1200
+6 Sep 2026,Wuse,bananabread,9,1800
+Sep 6 2026,Wuse,Sausage Roll,4,800
+2026-09-06,Wuse,Puf Puf,19,600
+06/09/2026,Garki,Meat Pie,15,1000
+7 Sep 2026,Maitama,Buns,14,300
+Sep 7 2026,Wuse,Plain Bread,7,1500
+2026-09-07,Wuse,Plain Bread,10,
+07/09/2026,wuse,Buns,17,300
+7 Sep 2026,garki,Puff Puff,14,600
+Sep 7 2026,Maitama,Sausage Roll,11,800
+2026-09-07,Garki,Meat pie,11,1000
+08/09/2026,Wuse,Croissant,8,1200
+8 Sep 2026,Maitama,Sliced Bread,12,2000
+Sep 8 2026,Garki,Puffpuff,15,600
+2026-09-08,Wuse,Chin Chin,4,1200
+08/09/2026,Garki,Fishroll,26,700
+8 Sep 2026,Gharki,Puff Puff,14,600
+Sep 9 2026,Garki,Sausage Roll,14,800
+Sep 7 2026,Wuse,Plain Bread,7,1500
+2026-09-09,Garki,Doughnut,13,
+09/09/2026,Garki,SLICED BREAD,20,2000
+9 Sep 2026,Garki ,Meat Pie,7,1000
+Sep 9 2026,Garki,Cinnamon Roll,24,1000
+2026-09-09,Maitama,Croissant,3,1200
+10/09/2026,Wuse,Chin Chin,20,1200
+10 Sep 2026,Garki,chinchin,22,1200
+Sep 10 2026,Wuse,meatpie,19,1000
+2026-09-10,WUSE,Chin Chin,16,1200
+10/09/2026,Garki,Buns,16,300
+10 Sep 2026,Garkii,Meat Pie,21,1000
+Sep 10 2026,Wuse,Chin Chin,17,1200
+2026-09-11,Wuse,Banana Bread,16,1800
+11/09/2026,Maitama ,Doughnut,6,500
+11 Sep 2026,wuse,Plain Bread,15,1500
+Sep 11 2026,Maitama,Fish Roll,12,700
+2026-09-11,Garki,donut,14,500
+11/09/2026,Garki,Croissant,12,1200
+12 Sep 2026,Maitamma,Buns,8,300
+Sep 12 2026,Garki,Meat Pie,14,1000
+2026-09-12,Garki,Banana Bread,15,1800
+12/09/2026,Maytama,Plain Bread,3,1500
+12 Sep 2026,Wuse,Plain Bread,15,1500
+Sep 12 2026,Garki,Chocolate Chunk Cookies,20,600
+2026-09-13,Maitama,Chin Chin,5,1200
+13/09/2026,Maitama,plain bread,14,1500
+13 Sep 2026,WUSE,Doughnut,8,500
+Sep 13 2026,Wuse,Buns,6,300
+2026-09-13,Maitama,Sausage Roll,14,800
+13/09/2026,Garki,Chin Chin,17,1200
+13 Sep 2026,Maitama,Sliced Bread,3,2000
+08/09/2026,Wuse,Croissant,8,1200
+Sep 14 2026,Wuse,Sausage Rolls,14,800
+2026-09-14,Wuse,Meat Pie,16,
+14/09/2026,Garki,Cinnamon Roll,25,1000
+14 Sep 2026,Wuse,meatpie,8,1000
+Sep 12 2026,Garki,Chocolate Chunk Cookies,20,600
+Sep 14 2026,Garki,Chin Chin,22,1200
+2026-09-14,Maitama,Doughnut,11,500
+15/09/2026,Maitama,Chin Chin,15,1200
+15 Sep 2026,GARKI,Doughnut,23,500
+Sep 15 2026,Garki,Cakeslice,14,700
+2026-09-15,Maitama,Fish Roll,2,700
+15/09/2026,Garki,Sliced Bread,14,2000
+15 Sep 2026,MAITAMA,Meat Pie,2,1000
+Sep 16 2026,Wuse,Meat Pie,18,1000
+30/02/2026,Maitama,Buns,6,300
+16/09/2026,GARKI,Puff Puff,13,600
+16 Sep 2026,Wuse ,Plain Bread,11,1500
+Sep 16 2026,Maitama,Chin Chin,5,1200
+2026-09-16,MAITAMA,Puff Puff,5,600
+16/09/2026,MAITAMA,Buns,4,300
+17 Sep 2026,Garki,Chocolate Chunk Cookies,18,600
+Sep 17 2026,Garki,Wedding Cake,6,12000
+2026-09-17,Wuse,chinchin,5,1200
+17/09/2026,MAITAMA,Banana Bread,15,1800
+17 Sep 2026,wuse,Plain Bread,19,1500
+Sep 17 2026,Maitama,Plain Bread,13,1500
+2026-09-18,garki,Sausage Roll,25,800
+18/09/2026,Garki,cinnamon roll,16,1000
+18 Sep 2026,Wuse,Croissant,18,1200
+Sep 18 2026,wuse,Chin Chin,9,1200
+2026-09-18,Maitama,Cinnamon Roll,8,1000
+18/09/2026,Garki,Puff Puff,23,600
+19 Sep 2026,Garki,Sliced Bread,11,2000
+Sep 19 2026,Garki,Puff Puff,17,600
+2026-09-19,Maitama,SLICED BREAD,14,2000
+19/09/2026,WUSE,Fish Roll,14,700
+19 Sep 2026,garki,Chocolate Chunk Cookies,12,600
+Sep 19 2026,wuse,Puff Puff,19,600
+2026-09-19,Maitama,Doughnut,10,500
+2026-09-15,Maitama,Fish Roll,2,700
+20/09/2026,Garki,Sliced Bread,18,2000
+2026-09-08,Wuse,Chin Chin,4,1200
+20 Sep 2026,Garki,Fish Roll,11,700
+Sep 20 2026,Garki,Meat Pies,18,1000
+2026-09-20,Wuse,Sliced Bread,17,2000
+20/09/2026,Garki,PUFF PUFF,16,600
+20 Sep 2026,Garky,Plain Bread,9,1500
+Sep 21 2026,Maitama,Puf Puf,5,600
+2026-09-21,Garki,Buns,21,300
+21/09/2026,MAITAMA,Fish Roll,4,700
+18 Sep 2026,Wuse,Croissant,18,1200
+21 Sep 2026,Garki,Chin Chin,20,1200
+Sep 21 2026,Wuse,Doughnut,13,500
+2026-09-21,GARKI,Puff Puff,17,600
+22/09/2026,Garki,Chin Chin,24,1200
+22 Sep 2026,Wuse,CHIN CHIN,15,1200
+Sep 22 2026,Garki,chin chin,9,1200
+2026-09-22,Garki,CHIN CHIN,23,1200
+22/09/2026,Maitama,Fish Roll,3,700
+22 Sep 2026,Garki,Bun,23,300
+Sep 22 2026,Maitama,Puff Puff,12,600
+2026-09-23,Wuse,Chin Chin,14,
+23/09/2026,WUSE,Chin Chin,9,1200
+23 Sep 2026,Maitama,PUFF PUFF,4,600
+Sep 23 2026,Garki,Chocolate Chunk Cookies,15,600
+2026-09-23,Wuse,Puf Puf,18,600
+23/09/2026,Maitama,Cinnamon Roll,9,1000
+24 Sep 2026,Wuse,Chin Chin,7,1200
+Sep 24 2026,,Croissant,4,1200
+2026-09-24,Maitama,Puff Puff,15,600
+24/09/2026,Maitama,Fish Roll,4,700
+24 Sep 2026,Wuse,Banana Bread,17,1800
+Sep 24 2026,Maitama,Puff Puff,11,600
+2026-09-25,Maytama,Banana Bread,9,1800
+25/09/2026,Garki,Chocolate Chunk Cookies,12,600
+25 Sep 2026,Garki,Plain Bread,10,
+Sep 25 2026,Maitama,Fish Roll,14,700
+2026-09-25,Wuse,Cake Slices,6,700
+25/09/2026,Garki,Puff Puff,13,600
+25 Sep 2026,Garky,Chin Chin,24,1200
+Sep 26 2026,Wuse,Zobo Drink,19,400
+2026-09-26,Maitama,Puff Puff,2,600
+26/09/2026,Maitama,Chin Chin,3,1200
+26 Sep 2026,Wuse,cinamon roll,7,1000
+Sep 26 2026,Garky,Puff Puff,20,600
+2026-09-26,WUSE,Fish Roll,5,700
+27/09/2026,Wuse,SAUSAGE ROLL,10,800
+27 Sep 2026,Wuse,Doughnut,16,500
+Sep 27 2026,garki,Sliced Bread,10,2000
+2026-09-27,Maitama,Sliced Bread,4,2000
+27/09/2026,Wuse,Meat Pies,12,1000
+27 Sep 2026,Garki,Puff Puff,26,
+Sep 21 2026,Wuse,Doughnut,13,500
+Sep 28 2026,Wuse,Cinnamon Roll,15,1000
+2026-09-28,Maitama,Sliced-Bread,11,2000
+2026-09-02,Garki,Sliced Bread,26,2000
+28/09/2026,Wuse,Puff Puff,17,600
+28 Sep 2026,Wuze,Buns,14,300
+15/09/2026,Garki,Sliced Bread,14,2000
+Sep 28 2026,Garki,Chocolate Chunk Cookies,14,600
+2026-09-28,Garki,Chin Chin,23,1200
+28/09/2026,Maitama ,Puff Puff,4,600
+29 Sep 2026,,Chin Chin,7,1200
+Sep 29 2026,Garki,Doughnut,14,500
+2026-09-29,Garki,Sausage Roll,20,
+29/09/2026,Wuse ,Plain Bread,17,1500
+29 Sep 2026,Garki,Sliced Bread,15,2000
+Sep 29 2026,Garki,Plain Bread,11,1500
+2026-09-30,Garki,Buns,10,300
+30/09/2026,Garki,Fish Roll,21,700
+23/09/2026,Maitama,Cinnamon Roll,9,1000
+30 Sep 2026,Garki,Sausage Roll,22,800
+Sep 30 2026,Garki,Sausage Roll,21,800
+2026-09-30,Wuse,Plain Bread,13,1500
+30/09/2026,Wuse,Cake Slice,15,

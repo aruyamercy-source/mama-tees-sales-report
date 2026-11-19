@@ -1,0 +1,201 @@
+date,branch,product,quantity,unit_price
+2026-10-01,Garki,puff-puff,8,600
+01/10/2026,Maitama,Fish Roll,15,700
+1 Oct 2026,wuse,Cake Slice,22,700
+Oct 1 2026,Garki,Banana Bread,4,1800
+2026-10-01,Maitama,Sliced Bread,11,2000
+01/10/2026,Wuse,meat-pie,18,1000
+2 Oct 2026,Garkii,Buns,25,300
+Oct 2 2026,Maitamma,Croissant,7,1200
+2026-10-02,Wuse,Chocolate Chunk Cookies,14,600
+02/10/2026,Garki,Chin Chin,21,1200
+2 Oct 2026,Maitama,SAUSAGE ROLL,3,800
+Oct 2 2026,Wuse,Doughnut,10,
+2026-10-03,GARKI,Cinnamon Roll,17,1000
+03/10/2026,Maitama,plain bread,24,1500
+3 Oct 2026,Wuse,Puff Puff,6,600
+Oct 3 2026,Garki,Fishroll,13,700
+2026-10-03,Maitama,Cake Slice,20,700
+03/10/2026,Wusee,Banana Bread,2,1800
+4 Oct 2026,Garki,Sliced Bread,9,2000
+Oct 4 2026,Maitama,Meat Pie,16,1000
+2026-10-04,Wuse,Bun,23,300
+04/10/2026,Garki,Croissant,5,1200
+4 Oct 2026,,Chocolate Chunk Cookies,12,600
+Oct 4 2026,Wuse,Chin Chin,19,1200
+2026-10-05,Garki,Sausage Roll,1,800
+05/10/2026,Maitama,donut,8,500
+5 Oct 2026,Wuse,Cinnamon Roll,15,1000
+Oct 5 2026,garki,Plain Bread,22,1500
+2026-10-05,Maitama,Puff Puff,4,600
+05/10/2026,Wuse,Fish Roll,11,700
+6 Oct 2026,Garki,Cake Slice,18,
+Oct 6 2026,Maitama,Banana Bread,25,1800
+2026-10-06,WUSE,Sliced Bread,7,2000
+06/10/2026,Garki,Meat Pie,14,1000
+6 Oct 2026,Maitama,Buns,21,300
+Oct 6 2026,Wuse,Croissants,3,1200
+2026-10-07,Garky,Chocolate Chunk Cookies,10,600
+07/10/2026,Maitam,Chin Chin,17,1200
+7 Oct 2026,Wuse,Sausage Roll,24,800
+05/10/2026,Wuse,Fish Roll,11,700
+2026-10-07,Maitama,cinamon roll,13,1000
+07/10/2026,Wuse,Plain Bread,20,1500
+8 Oct 2026,Garki ,Puff Puff,2,600
+Oct 8 2026,Maitama,FISH ROLL,9,700
+2026-10-08,Wuse,Cake Slice,16,700
+08/10/2026,Garki,banana-bread,23,1800
+8 Oct 2026,Maitama,Sliced Bread,5,2000
+Oct 8 2026,wuse,Meat Pie,12,1000
+2026-10-09,Garki,Buns,19,
+09/10/2026,Maitama,Croissant,1,1200
+9 Oct 2026,Wuse,Chocolate Chunk Cookie,8,600
+Oct 9 2026,Garki,Chin Chin,15,1200
+2026-10-09,MAITAMA,Sausage Roll,22,800
+09/10/2026,Wuse,Doughnut,4,500
+2026-10-08,Wuse,Cake Slice,16,700
+Oct 10 2026,Maitama,PLAIN BREAD,18,1500
+2026-10-10,Wuse,Puff Puff,25,600
+31/11/2026,Garki,Fish Roll,7,700
+10 Oct 2026,Maitama,Cake Slice,14,700
+Oct 10 2026,Wuse,Banana Bread,21,1800
+2026-10-11,Garki,sliced bred,3,2000
+11/10/2026,Maitama,Meat Pie,10,1000
+11 Oct 2026,Wuse ,Buns,17,300
+Oct 11 2026,Garki,Croissant,24,1200
+2026-10-11,Maitama,Chocolate Chunk Cookies,6,600
+11/10/2026,Wuse,chinchin,13,1200
+12 Oct 2026,Garki,Sausage Roll,20,
+Oct 12 2026,maitama,Doughnut,2,500
+2026-10-12,Wuse,Cinnamon Roll,9,1000
+Oct 10 2026,Wuse,Banana Bread,21,1800
+12 Oct 2026,Maitama,Puffpuff,23,600
+Oct 12 2026,Wuse,Fish Roll,5,700
+2026-10-13,Garkii,Cake Slice,12,700
+13/10/2026,Maitama,bananabread,19,1800
+13 Oct 2026,Wuse,Sliced Bread,1,2000
+Oct 13 2026,Garki,Meat pie,8,1000
+2026-10-13,Maitam,Buns,15,300
+13/10/2026,Wusee,Croissant,22,1200
+14 Oct 2026,Garki,Chocolate Chunk Cookies,4,600
+Oct 14 2026,Maitama,Chin Chin,11,1200
+2026-10-14,Wuse,Sausage-roll,18,800
+14/10/2026,Garki,Doughnut,25,
+14 Oct 2026,Maitamma,Cinnamon Roll,7,1000
+Oct 14 2026,Wuse,Plain Bread,14,1500
+Oct 4 2026,Maitama,Meat Pie,16,1000
+15/10/2026,Maitama,fish roll,3,700
+15 Oct 2026,Wuse,Cake Slice,10,700
+Oct 15 2026,GARKI,Banana Bread,17,1800
+2026-10-15,Maitama,Sliced Bread,24,2000
+15/10/2026,Wuse,Meat Pie,6,1000
+16 Oct 2026,Garki,Jollof Rice,13,1500
+Oct 16 2026,Maitama,Croissant,20,1200
+2026-10-16,wuse,Chocolate Chunk Cookies,2,600
+16/10/2026,Garki,Chin Chin,9,1200
+16 Oct 2026,Maitama,Sausage Roll,16,800
+Oct 16 2026,Wuse,Doughnuts,23,500
+2026-10-17,Garki,Cinnamon Roll,5,1000
+17/10/2026,Maitama,Plain Bread,12,
+17 Oct 2026,Wuse,Puff Puff,19,600
+13 Oct 2026,Wuse,Sliced Bread,1,2000
+2026-10-17,Maitama,Cake-Slice,8,700
+17/10/2026,Wuse,Banana Bread,15,1800
+18 Oct 2026,Garkii,Sliced Bread,22,2000
+Oct 18 2026,Maitama,Meat Pie,4,1000
+2026-10-18,Wuse,Buns,11,300
+18/10/2026,Garki,croisant,18,1200
+18 Oct 2026,Maitamma,Chocolate Chunk Cookies,25,600
+Oct 18 2026,WUSE,Chin Chin,7,1200
+2026-10-18,Garki,Sausage Roll,14,800
+19/10/2026,Maitama,Doughnut,21,500
+19 Oct 2026,Wuse,Cinnamon Rolls,3,1000
+Oct 19 2026,Garki,Plain Bread,10,1500
+2026-10-19,Maitama,Puff Puff,17,
+19/10/2026,Wuse,Fish Roll,24,700
+15/10/2026,Wuse,Meat Pie,6,1000
+Oct 19 2026,Maitama,Banana-Bread,13,1800
+2026-10-20,Wuse,Sliced Bread,20,2000
+20/10/2026,garki,Meat Pie,2,1000
+20 Oct 2026,Maitama,Buns,9,300
+Oct 20 2026,Wuse,Croissant,16,1200
+2026-10-20,Garki,choc chunk cookies,23,600
+20/10/2026,Maitama,Chin Chin,5,1200
+20 Oct 2026,Wusee,Sausage Roll,12,800
+Oct 21 2026,,Doughnut,19,500
+2026-10-21,Maitama,Cinnamon Roll,1,1000
+21/10/2026,Wuse,Plain-Bread,8,1500
+21 Oct 2026,Garki,Puff Puff,15,600
+Oct 21 2026,Maitam,Fish Roll,22,700
+2026-10-21,Wuse,Cake Slice,4,700
+2026-10-18,Wuse,Buns,11,300
+22 Oct 2026,Maitama,Sliced bread,18,2000
+Oct 22 2026,Wuse,Meat Pie,25,1000
+2026-10-22,Garki ,Buns,7,300
+22/10/2026,Maitama,Croissant,14,1200
+22 Oct 2026,Wuse,Chocolate Chunk Cookies,21,600
+Oct 22 2026,Garki,CHIN CHIN,3,1200
+2026-10-22,Maitama,Sausage Roll,10,800
+23/10/2026,WUSE,Doughnut,17,500
+23 Oct 2026,Garki,Cinnamon Roll,24,
+Oct 23 2026,Maitama,Plain Bread,6,1500
+2026-10-23,Wuse,puff puf,13,600
+23/10/2026,Garki,Fish Roll,20,700
+23 Oct 2026,maitama,Cake Slice,2,700
+Oct 23 2026,Wuse,Banana Bread,9,1800
+Oct 20 2026,Wuse,Croissant,16,1200
+24/10/2026,Maitama,MEAT PIE,23,1000
+24 Oct 2026,Wusee,Buns,5,300
+Oct 24 2026,Garky,Croissant,12,1200
+2026-10-24,Maitama,Chocolate Chunk Cookies,19,600
+24/10/2026,Wuse,Chin Chin,1,1200
+24 Oct 2026,Garki,sausage roll,8,800
+Oct 25 2026,Maitama,Doughnut,15,500
+2026-10-25,Wuse ,Cinnamon Roll,22,1000
+25/10/2026,Garki,Plain Bread,4,1500
+25 Oct 2026,Maitama,Puff Puff,11,600
+Oct 25 2026,Wuse,Fish-Roll,18,700
+31/09/2026,Garki,Cake Slice,25,700
+25/10/2026,Maitamma,Banana Bread,7,1800
+26 Oct 2026,Wuse,Sliced Bread,14,2000
+22 Oct 2026,Wuse,Chocolate Chunk Cookies,21,600
+2026-10-26,Maitama,buns,3,300
+26/10/2026,Wuse,Croissant,10,1200
+26 Oct 2026,GARKI,Chocolate Chunk Cookies,17,600
+Oct 26 2026,Maitama,Chin Chin,24,1200
+2026-10-26,Wuse,Sausage Roll,6,800
+27/10/2026,Garki,Doughnut,13,
+27 Oct 2026,Maitama,Cinnamon Roll,20,1000
+Oct 27 2026,wuse,Plain Bread,2,1500
+2026-10-27,Garki,Puff Puff,9,600
+27/10/2026,Maitama,Fish Roll,16,700
+27 Oct 2026,Wuse,CAKE SLICE,23,700
+Oct 27 2026,Garki,Banana Bread,5,1800
+2026-10-28,Maitam,Sliced Bread,12,2000
+28/10/2026,Wuse,Meat Pie,19,1000
+24/10/2026,Wuse,Chin Chin,1,1200
+Oct 28 2026,Maitama,croissant,8,1200
+2026-10-28,Wuse,Chocolate Chunk Cookies,15,600
+28/10/2026,garki,Chin Chin,22,1200
+28 Oct 2026,Maitama,Sausage Roll,4,800
+Oct 29 2026,Wuse,Doughnut,11,500
+2026-10-29,Garki,CINNAMON ROLL,18,1000
+29/10/2026,Maitama,Plain Bread,25,1500
+29 Oct 2026,Wusee,Puff Puff,7,600
+Oct 29 2026,Garki,Fish Roll,14,700
+2026-10-29,Maitama,Cake Slice,21,700
+29/10/2026,Wuse,banana bread,3,1800
+30 Oct 2026,Garkii,Sliced Bread,10,2000
+Oct 30 2026,Maitama,Birthday Cake,17,15000
+2026-10-30,Wuse,Buns,24,300
+30/10/2026,Garki,Croissant,6,1200
+30 Oct 2026,Maitama,Choc Chunk Cookies,13,600
+Oct 30 2026,Wuse,Chin Chin,20,1200
+2026-10-30,Garki,Sausage Roll,2,
+31/10/2026,Maitama,Doughnut,9,500
+31 Oct 2026,Wuse,Cinnamon Roll,16,1000
+Oct 31 2026,Garki,plain-bread,23,1500
+2026-10-31,Maitama,Puff Puff,5,600
+31/10/2026,WUSE,Fish Roll,12,700
+31 Oct 2026,Garki,Cake Slice,19,700
+Oct 31 2026,Maitama,Banana Bread,1,1800

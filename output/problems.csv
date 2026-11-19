@@ -1,0 +1,13 @@
+﻿file,row_number,date,branch,product,quantity,unit_price,reason
+sales-october.csv,23,4 Oct 2026,,Chocolate Chunk Cookies,12,600,Branch is blank
+sales-october.csv,58,31/11/2026,Garki,Fish Roll,7,700,Date '31/11/2026' is not a real date
+sales-october.csv,91,16 Oct 2026,Garki,Jollof Rice,13,1500,Product 'Jollof Rice' is not on the product list
+sales-october.csv,124,Oct 21 2026,,Doughnut,19,500,Branch is blank
+sales-october.csv,157,31/09/2026,Garki,Cake Slice,25,700,Date '31/09/2026' is not a real date
+sales-october.csv,188,Oct 30 2026,Maitama,Birthday Cake,17,15000,Product 'Birthday Cake' is not on the product list
+sales-september.csv,9,31/09/2026,Wuse,Cinnamon Roll,6,1000,Date '31/09/2026' is not a real date
+sales-september.csv,100,30/02/2026,Maitama,Buns,6,300,Date '30/02/2026' is not a real date
+sales-september.csv,107,Sep 17 2026,Garki,Wedding Cake,6,12000,Product 'Wedding Cake' is not on the product list
+sales-september.csv,154,Sep 24 2026,,Croissant,4,1200,Branch is blank
+sales-september.csv,166,Sep 26 2026,Wuse,Zobo Drink,19,400,Product 'Zobo Drink' is not on the product list
+sales-september.csv,188,29 Sep 2026,,Chin Chin,7,1200,Branch is blank
